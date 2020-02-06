@@ -1,0 +1,410 @@
+{
+    "DATA" :
+[
+  {
+    "line": "1호선",
+    "name": "서울",
+    "wheelChair": "2",
+    "elevator": "2번||3번||4번_출구",
+    "latitude": 37.553615,
+    "longitude": 126.96963,
+    "imageName": "1"
+  },
+  {
+    "line": "1호선",
+    "name": "시청",
+    "wheelChair": "X",
+    "elevator": "1-2번 사이_출구",
+    "latitude": 37.56563,
+    "longitude": 126.977145,
+    "imageName": "1"
+  },
+  {
+    "line": "1호선",
+    "name": "종각",
+    "wheelChair": "X",
+    "elevator": "3번_출구",
+    "latitude": 37.570178,
+    "longitude": 126.98312,
+    "imageName": "1"
+  },
+  {
+    "line": "1호선",
+    "name": "종로3가",
+    "wheelChair": "1",
+    "elevator": "12-13번 사이_출구",
+    "latitude": 37.570435,
+    "longitude": 126.992018,
+    "imageName": "1"
+  },
+  {
+    "line": "1호선",
+    "name": "종로5가",
+    "wheelChair": "X",
+    "elevator": "8-9번 사이_출구",
+    "latitude": 37.570908,
+    "longitude": 127.001917,
+    "imageName": "1"
+  },
+  {
+    "line": "1호선",
+    "name": "동대문",
+    "wheelChair": "X",
+    "elevator": "6번_출구",
+    "latitude": 37.571386,
+    "longitude": 127.009689,
+    "imageName": "1"
+  },
+  {
+    "line": "1호선",
+    "name": "동묘앞",
+    "wheelChair": "X",
+    "elevator": "1-10번 사이||3번_출구",
+    "latitude": 37.572788,
+    "longitude": 127.01604,
+    "imageName": "1"
+  },
+  {
+    "line": "1호선",
+    "name": "신설동",
+    "wheelChair": "6",
+    "elevator": "1번||2-3번 사이||4-5번 사이\n||9번_출구",
+    "latitude": 37.575977,
+    "longitude": 127.023949,
+    "imageName": "1"
+  },
+  {
+    "line": "1호선",
+    "name": "제기동",
+    "wheelChair": "X",
+    "elevator": "1번 사이_출구",
+    "latitude": 37.57821,
+    "longitude": 127.03458,
+    "imageName": "1"
+  },
+  {
+    "line": "1호선",
+    "name": "청량리",
+    "wheelChair": "1",
+    "elevator": "6번 사이_출구",
+    "latitude": 37.581381,
+    "longitude": 127.048979,
+    "imageName": "1"
+  },
+  {
+    "line": "2호선",
+    "name": "시청",
+    "wheelChair": "X",
+    "elevator": "9번 사이_출구",
+    "latitude": 37.563888,
+    "longitude": 126.976634,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "을지로입구",
+    "wheelChair": "1",
+    "elevator": "1번||5번_출구",
+    "latitude": 37.566065,
+    "longitude": 126.9827,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "을지로3가",
+    "wheelChair": "X",
+    "elevator": "X",
+    "latitude": 37.566328,
+    "longitude": 126.992396,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "을지로4가",
+    "wheelChair": "X",
+    "elevator": "8번_출구",
+    "latitude": 37.566793,
+    "longitude": 126.998013,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "동대문역사문화공원",
+    "wheelChair": "X",
+    "elevator": "1번_출구",
+    "latitude": 37.564504,
+    "longitude": 127.00717,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "신당",
+    "wheelChair": "1",
+    "elevator": "2번_출구",
+    "latitude": 37.565459,
+    "longitude": 127.016219,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "상왕십리",
+    "wheelChair": "X",
+    "elevator": "2-3번_출구",
+    "latitude": 37.5645,
+    "longitude": 127.028872,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "왕십리",
+    "wheelChair": "1",
+    "elevator": "X",
+    "latitude": 37.561255,
+    "longitude": 127.038097,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "한양대",
+    "wheelChair": "X",
+    "elevator": "4번_출구",
+    "latitude": 37.555622,
+    "longitude": 127.043686998013,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "뚝섬",
+    "wheelChair": "X",
+    "elevator": "3번_출구",
+    "latitude": 37.547248,
+    "longitude": 127.047359,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "성수",
+    "wheelChair": "2",
+    "elevator": "1번||4번_출구",
+    "latitude": 37.544541,
+    "longitude": 127.056831,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "건대입구",
+    "wheelChair": "1",
+    "elevator": "6번_출구",
+    "latitude": 37.540193,
+    "longitude": 127.0698,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "구의",
+    "wheelChair": "X",
+    "elevator": "2번_출구",
+    "latitude": 37.537097,
+    "longitude": 127.086026,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "강변",
+    "wheelChair": "X",
+    "elevator": "X",
+    "latitude": 37.535344,
+    "longitude": 127.094587,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "잠실나루",
+    "wheelChair": "X",
+    "elevator": "X",
+    "latitude": 37.520579,
+    "longitude": 127.103892,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "잠실",
+    "wheelChair": "1",
+    "elevator": "1-2번 사이||6번_출구",
+    "latitude": 37.51327,
+    "longitude": 127.100134,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "잠실새내",
+    "wheelChair": "X",
+    "elevator": "2번||7번_출구",
+    "latitude": 37.511627,
+    "longitude": 127.085458,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "종합운동장",
+    "wheelChair": "X",
+    "elevator": "6번_출구",
+    "latitude": 37.511114,
+    "longitude": 127.07337,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "삼성",
+    "wheelChair": "1",
+    "elevator": "1번||4번||6번||8번_출구",
+    "latitude": 37.508878,
+    "longitude": 127.063181,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "선릉",
+    "wheelChair": "X",
+    "elevator": "1번||5번||10번_출구",
+    "latitude": 37.504513,
+    "longitude": 127.048975,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "역삼",
+    "wheelChair": "X",
+    "elevator": "3번||4번_출구",
+    "latitude": 37.500834,
+    "longitude": 127.036915,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "강남",
+    "wheelChair": "X",
+    "elevator": "1번||10번_출구",
+    "latitude": 37.497994,
+    "longitude": 127.027718,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "교대",
+    "wheelChair": "X",
+    "elevator": "5번_출구",
+    "latitude": 37.493496,
+    "longitude": 127.014078,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "서초",
+    "wheelChair": "X",
+    "elevator": "1번||4번_출구",
+    "latitude": 37.491865,
+    "longitude": 127.007688,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "방배",
+    "wheelChair": "X",
+    "elevator": "3번_출구",
+    "latitude": 37.481512,
+    "longitude": 126.997659,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "사당",
+    "wheelChair": "X",
+    "elevator": "6번||14번_출구",
+    "latitude": 37.476585,
+    "longitude": 126.981644,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "낙성대",
+    "wheelChair": "X",
+    "elevator": "6번_출구",
+    "latitude": 37.47716,
+    "longitude": 126.963439,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "서울대입구",
+    "wheelChair": "X",
+    "elevator": "2번||6번_출구",
+    "latitude": 37.481244,
+    "longitude": 126.952712,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "봉천",
+    "wheelChair": "X",
+    "elevator": "4번_출구",
+    "latitude": 37.482603,
+    "longitude": 126.941449,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "신림",
+    "wheelChair": "X",
+    "elevator": "1번||5번_출구",
+    "latitude": 37.484241,
+    "longitude": 126.92974,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "신대방",
+    "wheelChair": "X",
+    "elevator": "1번_출구",
+    "latitude": 37.487326,
+    "longitude": 126.913074,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "구로디지털단지",
+    "wheelChair": "X",
+    "elevator": "6번_출구",
+    "latitude": 37.485233,
+    "longitude": 126.901449,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "대림",
+    "wheelChair": "X",
+    "elevator": "4번||7번_출구",
+    "latitude": 37.493223,
+    "longitude": 126.895019,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "신도림",
+    "wheelChair": "2",
+    "elevator": "1번||2번_출구",
+    "latitude": 37.509032,
+    "longitude": 126.891914,
+    "imageName": "2"
+  },
+  {
+    "line": "2호선",
+    "name": "문래",
+    "wheelChair": "X",
+    "elevator": "5번_출구",
+    "latitude": 37.517828,
+    "longitude": 126.894762,
+    "imageName": "2"
+  }
+]
+}
